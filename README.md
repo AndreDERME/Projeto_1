@@ -1,0 +1,1 @@
+Projeto desenvolvido para fins de estudo, buscando aprofundar e aplicar conhecimentos fundamentais em Java. Nele, foi construído um um SISTEMA DE BANCO e dentre outros, que pratica o uso de lógica de programação, Orientação a Objetos, tratamento de exceções e manipulação de coleções. É uma demonstração prática dos pilares da linguagem em um cenário real.
